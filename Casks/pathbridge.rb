@@ -1,6 +1,6 @@
 cask "pathbridge" do
   version "0.2.0"
-  sha256 "784fb9bdf64572ddb4f5a29ae3ad3c417641af7a7b0ea93b9ca7b51ff637eaad"
+  sha256 "af6225eeee6082f55a9ea753f6e9102ceabc926f9891d746fcf47b0ca9547d2b"
 
   url "https://github.com/lzy0809/PathBridge/releases/download/v#{version}/PathBridge_v0.2.0.dmg"
   name "PathBridge"
