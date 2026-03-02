@@ -1,8 +1,8 @@
 cask "pathbridge" do
-  version "0.2.3"
-  sha256 "04dad1a0b7f09cba59c4d2559e365bb3a0eacd9208e231f3d04d384540f38be3"
+  version "0.2.0"
+  sha256 "af6225eeee6082f55a9ea753f6e9102ceabc926f9891d746fcf47b0ca9547d2b"
 
-  url "https://github.com/lzy0809/PathBridge/releases/download/v#{version}/PathBridge_v0.2.3.dmg"
+  url "https://github.com/lzy0809/PathBridge/releases/download/v#{version}/PathBridge_v0.2.0.dmg"
   name "PathBridge"
   desc "Open Finder directory in your selected terminal"
   homepage "https://github.com/lzy0809/PathBridge"
